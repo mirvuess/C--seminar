@@ -59,4 +59,3 @@ else
     Console.WriteLine(Convert.ToInt32(Convert.ToString(b[0])) 
                                          + Convert.ToInt32(Convert.ToString(b[2])));
 }
-
